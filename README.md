@@ -4,12 +4,12 @@ scrips for google docs
 ## How it works
 Open Google Docs Script editor page
 `Tools -> Script editor`
-![alt text](https://drive.google.com/open?id=11DiOl56t_r6GqU2dR23y2J1BdPClV2bZ)
+![](Screen2.png)
 Copy script text into the editor page
 Save and close editor page
 Refresh Google Docs
 Timestamp option available 
-![alt text](https://drive.google.com/open?id=11KPSZ2W9RerMR8ZK0qufapfqYSc_IdKB)
+![](Screen1.png)
 
 
 ## Scripts
